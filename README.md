@@ -1,2 +1,5 @@
-# python-project-template
-A reusable template for Python projects with .gitignore, license, and README.
+# Features of the text
+it shows: lines ,
+ words ,
+ characters ,
+ top 5 Most common words
